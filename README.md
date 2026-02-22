@@ -27,5 +27,18 @@ How to lookup data source from JNDI using spring
 # Config:
 
 <jee:jndi-lookup id="dataSource" jndi-name="jdbc/javatechie"
-   			expected-type="javax.sql.DataSource" />					
+   			expected-type="javax.sql.DataSource" />	
+
+
+
+
+
+
+
+			<img width="940" height="633" alt="image" src="https://github.com/user-attachments/assets/f52d8ae0-0da8-47a1-bb95-ee0629a98671" />
+
+
+			<img width="940" height="631" alt="image" src="https://github.com/user-attachments/assets/20533898-8258-4411-8640-4ce26ace17b4" />
+
+
 					
